@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Kamali J</h1>
 <p align="center">
-  🎓 2nd Year CSE (AI & ML) Student at <b>KKIT</b> | 💻 Full Stack Developer Intern | 🤖 Passionate about AI, ML & IoT Innovations
+  🎓 2nd Year CSE (AI & ML) Student at <b>KIT</b> | 💻 Full Stack Developer Intern | 🤖 Passionate about AI, ML & IoT Innovations
 </p>
 
 <p align="center">
