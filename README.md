@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kamali-j-2696312a5/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kamalijofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kamalij513@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Kamali_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
   <a href="https://www.codechef.com/users/kit23bam025"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white"/></a>
 </p>
@@ -79,7 +79,7 @@
 
 ### 📫 Connect With Me
 <p align="center">
-  <a href="mailto:kamalijofficial@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:kamalij513@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/kamali-j-2696312a5/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Kamali_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
 </p>
