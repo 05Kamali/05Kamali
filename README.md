@@ -1,20 +1,44 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/05Kamali/05Kamali/main/assets/banner.png" alt="Kamali J Banner" width="100%" style="transition: all 0.6s ease-in-out;"/>
+  <img src="https://raw.githubusercontent.com/05Kamali/05Kamali/main/assets/banner.png" 
+       alt="Kamali J Banner" width="100%" 
+       style="border-radius: 15px; transition: transform 0.6s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.02)'" 
+       onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 <!-- Heading -->
-<h1 align="center" style="transition: all 0.6s ease-in-out;">Hi, I'm Kamali J</h1>
-<p align="center" style="transition: all 0.6s ease-in-out;">
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; transition: all 0.6s ease-in-out;">Hi, I'm <span style="color:#4FC3F7;">Kamali J</span></h1>
+<p align="center" style="transition: opacity 0.8s ease-in-out;">
   2nd Year CSE (AI & ML) Student at <b>KIT</b> | Full Stack Developer Intern | Passionate about AI, ML & IoT Innovations
 </p>
 
 <!-- Social Links -->
-<p align="center" style="transition: all 0.6s ease-in-out;">
-  <a href="https://www.linkedin.com/in/kamali-j-2696312a5/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:kamalij513@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Kamali_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
-  <a href="https://www.codechef.com/users/kit23bam025"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kamali-j-2696312a5/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="mailto:kamalij513@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://leetcode.com/u/Kamali_05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+  <a href="https://www.codechef.com/users/kit23bam025" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" 
+         style="transition: transform 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
 </p>
 
 ---
@@ -24,7 +48,7 @@
 - Currently enhancing my skills in **React.js, Node.js, and Deep Learning**
 - Working on real-world projects that merge **AI with hardware and web**
 - Ask me about **Python, OpenCV, Web Development, or IoT**
-- Fun fact: I love solving problems that blend creativity and logic
+- Passionate about blending creativity and logic to build innovative solutions
 
 ---
 
@@ -36,27 +60,43 @@
 ---
 
 ### 📊 GitHub Stats
-<p align="center" style="transition: all 0.6s ease-in-out;">
-  <img src="https://github-readme-stats.vercel.app/api?username=05Kamali&show_icons=true&theme=tokyonight" alt="Kamali's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Kamali&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=05Kamali&show_icons=true&theme=tokyonight" 
+       height="165" style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=05Kamali&layout=compact&theme=tokyonight" 
+       height="165" style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'" />
 </p>
 
-<p align="center" style="transition: all 0.6s ease-in-out;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=05Kamali&theme=tokyonight" alt="GitHub Streak Stats"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=05Kamali&theme=tokyonight" 
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center" style="transition: all 0.6s ease-in-out;">
-  <img src="https://github-profile-trophy.vercel.app/?username=05Kamali&theme=tokyonight&margin-w=15" alt="GitHub Trophies"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=05Kamali&theme=tokyonight&margin-w=15" 
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 ---
 
-### 📈 Contribution Graph
-<p align="center" style="transition: all 0.6s ease-in-out;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=05Kamali&theme=tokyo-night" alt="Activity Graph"/>
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/05Kamali/05Kamali/output/github-contribution-grid-snake.svg" 
+       alt="Snake animation" 
+       style="max-width: 100%; transition: transform 0.6s ease-in-out;" 
+       onmouseover="this.style.transform='scale(1.05)'" 
+       onmouseout="this.style.transform='scale(1)'" />
 </p>
 
 ---
@@ -70,7 +110,6 @@
 | **To-Do List Web App** | Simple and interactive task management system using HTML, CSS & JS | [View Repo](https://github.com/05Kamali/To-Do) |
 | **DOM Manipulation Projects** | Fun, interactive mini-projects using JavaScript DOM | [View Repo](https://github.com/05Kamali/DOM) |
 | **Personal Portfolio** | My digital portfolio showcasing my projects and achievements | [View Repo](https://github.com/05Kamali/Portfolio) |
-| **Website Project** | A responsive web page built for learning and experimentation | [View Repo](https://github.com/05Kamali/Website) |
 
 ---
 
@@ -81,14 +120,23 @@
 ---
 
 ### 📫 Connect With Me
-<p align="center" style="transition: all 0.6s ease-in-out;">
-  <a href="mailto:kamalij513@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/kamali-j-2696312a5/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Kamali_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"/></a>
+<p align="center">
+  <a href="mailto:kamalij513@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white" 
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://www.linkedin.com/in/kamali-j-2696312a5/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" /></a>
+  <a href="https://leetcode.com/u/Kamali_05/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" 
+       style="transition: transform 0.3s;" 
+       onmouseover="this.style.transform='scale(1.1)'" 
+       onmouseout="this.style.transform='scale(1)'" /></a>
 </p>
 
 ---
 
-<p align="center" style="transition: all 0.6s ease-in-out;">*Passionate about innovation. Building solutions that make life smarter.*</p>
+<p align="center" style="font-style: italic;">Building intelligent, creative, and real-world AI solutions.</p>
 
 <!-- Updated: 2025-10-13 -->
