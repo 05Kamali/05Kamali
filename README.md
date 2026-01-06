@@ -10,7 +10,7 @@
 <!-- Heading -->
 <h1 align="center" style="font-family: 'Segoe UI', sans-serif; transition: all 0.6s ease-in-out;">Hi, I'm <span style="color:#4FC3F7;">Kamali J</span></h1>
 <p align="center" style="transition: opacity 0.8s ease-in-out;">
-  2nd Year CSE (AI & ML) Student at <b>KIT</b> | Full Stack Developer Intern | Passionate about AI, ML & IoT Innovations
+  3rd Year CSE (AI & ML) Student at <b>KIT</b> | Full Stack Developer Intern | Passionate about AI, ML & IoT Innovations
 </p>
 
 <!-- Social Links -->
