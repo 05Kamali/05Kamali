@@ -7,8 +7,8 @@
 <h1 align="center">Hi, I'm Kamali J 👋</h1>
 
 <p align="center">
-  🎓 Pre-Final Year CSE (AI & ML) Student at <b>KIT, Coimbatore</b> <br>
-  🤖 AI | Computer Vision | IoT | Full Stack Development <br>
+  🎓 Pre-Final Year CSE (AI & ML) Student at <b>KIT, Coimbatore</b> 
+   | AI | Computer Vision | IoT | Full Stack Development 
 </p>
 
 ---
@@ -60,22 +60,22 @@
 
 # 🚀 Projects
 
-### 🧢 AI-Powered Wearable for Smart Mobility and Learning  
+###  AI-Powered Wearable for Smart Mobility and Learning  
 - Obstacle detection wearable hat with voice feedback  
 - Built using **YOLOv8 + IoT Sensors + Text-to-Speech**
 ---
 
-### 🌱 CropGuard AI — Smart Agriculture Disease Detection  
+###  CropGuard AI — Smart Agriculture Disease Detection  
 - AI-based vegetable disease classification system  
 - Web platform guiding complete farming process  
 ---
 
-### 🐾 Wise — Wildlife Intrusion Surveillance & Edge Intelligence  
+###  Wise — Wildlife Intrusion Surveillance & Edge Intelligence  
 - Detects animals entering farms and sends SMS alerts with GPS  
 - Motion-triggered monitoring + species classification  
 ---
 
-### 🌍 Multilingual Cybercrime Support using RAG + Agents  
+###  Multilingual Cybercrime Support using RAG + Agents  
 - RAG chatbot providing verified cybercrime guidance  
 - Agent-based escalation system for critical threat alerts  
 ---
@@ -93,8 +93,8 @@
 # 🏆 Achievements
 
 - Finalist — **VCETHackElite 2K25**  
-- 🥇 5th Place — Hack the Horizon (100+ Teams)  
-- 🥉 Third Prize — IDEATHON ’25 (RVS CET)  
+-  5th Place — Hack the Horizon (100+ Teams)  
+-  Third Prize — IDEATHON ’25 (RVS CET)  
 - Completed **4 NPTEL Elite Certifications**  
 - Agentforce Champion & Innovator & Legend (92%)  
 - Participated in Innovator Conclave 2025 (BITS Pilani)
@@ -111,9 +111,11 @@
 ### 💼 Featured Projects
 
 | Project | Description | Repo |
-|----------|--------------|------|
+|----------|-------------|------|
 | **EchoVision HackFest** | AI-based object detection for visually impaired individuals with real-time audio guidance | [View Repo](https://github.com/05Kamali/EchoVision-HackFest) |
 | **Traffic Signal Violation Detection** | YOLO-based vehicle detection and automatic license plate recognition | [View Repo](https://github.com/05Kamali/Full-Stack-Developer-Intership) |
+| **License-Plate-Recognition (Public)** | Automatic Number Plate Detection and Recognition using Computer Vision and Deep Learning | [View Repo](https://github.com/05Kamali/License-Plate-Recognition) |
+| **EduTycoons** | Educational platform project focused on smart learning and student support features | [View Repo](https://github.com/05Kamali/EduTycoons) |
 | **To-Do List Web App** | Simple and interactive task management system using HTML, CSS & JS | [View Repo](https://github.com/05Kamali/To-Do) |
 | **DOM Manipulation Projects** | Fun, interactive mini-projects using JavaScript DOM | [View Repo](https://github.com/05Kamali/DOM) |
 | **Personal Portfolio** | My digital portfolio showcasing my projects and achievements | [View Repo](https://github.com/05Kamali/Portfolio) |
