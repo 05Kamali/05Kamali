@@ -35,13 +35,6 @@
 
 ---
 
-# 🎓 Education
-
-- **B.E. Computer Science Engineering (AI & ML)**  
-  Kalaignar Karunanidhi Institute of Technology, Coimbatore  
-  📌 CGPA: **8.47 / 10** (2023 – 2027)
----
-
 # 💼 Internship Experience
 
 ### **AI Intern — NoviTech R&D Pvt Ltd** *(May – June 2024)*
