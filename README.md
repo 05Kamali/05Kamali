@@ -56,17 +56,17 @@
 ###  AI-Powered Wearable for Smart Mobility and Learning  
 - Obstacle detection wearable hat with voice feedback  
 - Built using **YOLOv8 + IoT Sensors + Text-to-Speech**
----
+
 
 ###  CropGuard AI — Smart Agriculture Disease Detection  
 - AI-based vegetable disease classification system  
 - Web platform guiding complete farming process  
----
+  
 
 ###  Wise — Wildlife Intrusion Surveillance & Edge Intelligence  
 - Detects animals entering farms and sends SMS alerts with GPS  
 - Motion-triggered monitoring + species classification  
----
+  
 
 ###  Multilingual Cybercrime Support using RAG + Agents  
 - RAG chatbot providing verified cybercrime guidance  
@@ -104,16 +104,15 @@
 ### 💼 Featured Projects
 
 | Project | Description | Repo |
-|----------|-------------|------|
+|----------|--------------|------|
 | **EchoVision HackFest** | AI-based object detection for visually impaired individuals with real-time audio guidance | [View Repo](https://github.com/05Kamali/EchoVision-HackFest) |
-| **Traffic Signal Violation Detection** | YOLO-based vehicle detection and automatic license plate recognition | [View Repo](https://github.com/05Kamali/Full-Stack-Developer-Intership) |
-| **License-Plate-Recognition (Public)** | Automatic Number Plate Detection and Recognition using Computer Vision and Deep Learning | [View Repo](https://github.com/05Kamali/License-Plate-Recognition) |
-| **EduTycoons** | Educational platform project focused on smart learning and student support features | [View Repo](https://github.com/05Kamali/EduTycoons) |
+| **Traffic Signal Violation Detection** | YOLO-based vehicle detection and automatic license plate recognition | [View Repo](https://github.com/05Kamali/License-Plate-Recognition) |
+| **Full Stack Developer Internship Tasks** | Internship-based full stack development projects and implementations | [View Repo](https://github.com/05Kamali/Full-Stack-Developer-Intership) |
+| **EduTycoons** | Educational platform project focused on learning, student support, and digital resources | [View Repo](https://github.com/05Kamali/EduTycoons) |
 | **To-Do List Web App** | Simple and interactive task management system using HTML, CSS & JS | [View Repo](https://github.com/05Kamali/To-Do) |
 | **DOM Manipulation Projects** | Fun, interactive mini-projects using JavaScript DOM | [View Repo](https://github.com/05Kamali/DOM) |
 | **Personal Portfolio** | My digital portfolio showcasing my projects and achievements | [View Repo](https://github.com/05Kamali/Portfolio) |
 
----
 # 📊 GitHub Stats
 
 <p align="center">
