@@ -53,6 +53,10 @@
 
 # 🚀 Projects
 
+###  Factory Alpha - Predictive Analytics 
+- Built a full-stack dashboard to collect and process real-time machine sensor data via APIs.
+- Integrated AI-based predictive maintenance with live visualization and database logging.
+
 ###  AI-Powered Wearable for Smart Mobility and Learning  
 - Obstacle detection wearable hat with voice feedback  
 - Built using **YOLOv8 + IoT Sensors + Text-to-Speech**
@@ -112,6 +116,7 @@
 | **To-Do List Web App** | Simple and interactive task management system using HTML, CSS & JS | [View Repo](https://github.com/05Kamali/To-Do) |
 | **DOM Manipulation Projects** | Fun, interactive mini-projects using JavaScript DOM | [View Repo](https://github.com/05Kamali/DOM) |
 | **Personal Portfolio** | My digital portfolio showcasing my projects and achievements | [View Repo](https://github.com/05Kamali/Portfolio) |
+| **Factory Alpha – Predictive Maintenance** | Full-stack dashboard for real-time machine monitoring with AI-based failure prediction | [View Repo](https://github.com/05Kamali/Predictive maintenance) |
 
 # 📊 GitHub Stats
 
