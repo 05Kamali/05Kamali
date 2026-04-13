@@ -116,7 +116,7 @@
 | **To-Do List Web App** | Simple and interactive task management system using HTML, CSS & JS | [View Repo](https://github.com/05Kamali/To-Do) |
 | **DOM Manipulation Projects** | Fun, interactive mini-projects using JavaScript DOM | [View Repo](https://github.com/05Kamali/DOM) |
 | **Personal Portfolio** | My digital portfolio showcasing my projects and achievements | [View Repo](https://github.com/05Kamali/Portfolio) |
-| **Factory Alpha – Predictive Maintenance** | Full-stack dashboard for real-time machine monitoring with AI-based failure prediction | [View Repo](https://github.com/05Kamali/Predictive maintenance) |
+| **Factory Alpha – Predictive Maintenance** | Full-stack dashboard for real-time machine monitoring with AI-based failure prediction | [View Repo](https://github.com/05Kamali/Predictive-Maintainance) |
 
 # 📊 GitHub Stats
 
